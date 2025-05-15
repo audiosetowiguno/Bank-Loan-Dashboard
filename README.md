@@ -84,7 +84,7 @@ Before creating an impactful dashboard to monitor Bank Loan Performance, we shou
 
 - The **Average DTI** (Debt-to-Income ratio) for loans with a "Current" status is higher than that of loans marked as "Charged Off" and "Fully Paid." This suggests that current loans have the potential to become delinquent and may eventually be charged off if not monitored closely.
 
-- Each key KPI (Total Applications, Total Funded Amount, Total Amount Received) on the Overview Page increased steadily from January to December, indicating that the bank is experiencing consistent growth in loan activities.
+- Each Selected KPI (Total Applications, Total Funded Amount, Total Amount Received) on the Overview Page increased steadily from January to December, indicating that the bank is experiencing consistent growth in loan activities.
   
 - Most applicants choose short-term loans instead of long-term ones, while their primary purpose is debt consolidation. This implies faster fund turnover for the bank due to the shorter repayment periods.
 
